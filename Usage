@@ -1,0 +1,6 @@
+Run the example script:
+```bash
+python solve_recaptcha.py
+```
+
+For detailed usage, refer to the [documentation](https://docs.capsolver.com/en/guide/getting-started/?utm_source=github&utm_medium=repo&utm_campaign=recaptchaextension).
