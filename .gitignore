@@ -1,0 +1,8 @@
+```
+# Python
+*.pyc
+__pycache__/
+
+# CapSolver extension
+CapSolver.Browser.Extension/
+```
